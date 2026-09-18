@@ -2,6 +2,8 @@
 
 # 🎵 Music Playlist
 
+https://setare-heydarvand-web.github.io/mini-playlist/
+
 A modern and interactive music playlist built with **HTML, Tailwind CSS, and JavaScript**.
 
 This mini project was created to practice JavaScript fundamentals such as **DOM manipulation, functions, variables, conditions, and click events** while building a clean and responsive music player interface.
